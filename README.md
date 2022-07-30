@@ -1,4 +1,4 @@
-<center>Hi 👋, I'm David<c/center>
+Hi 👋, I'm David
 
 🔭 I’m currently in Higher Technician Training Systems and Networks
 
