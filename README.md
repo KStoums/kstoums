@@ -2,7 +2,7 @@ Hi 👋, I'm David
 
 🔭 I’m currently in Higher Technician Training Systems and Networks
 
-🌱 I am currently learning Docker and GoLand language
+🌱 I am currently learning Docker and Python language
 
 <!---
 KStoums/KStoums is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
