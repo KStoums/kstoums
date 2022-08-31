@@ -4,6 +4,7 @@ Hi 👋, I'm David
 
 🌱 I am currently learning Docker and Python language
 
+
 👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/Niromash>Niromash</a>
 
 <!---
