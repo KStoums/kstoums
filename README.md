@@ -4,7 +4,7 @@ Hi 👋, I'm David
 
 🌱 I am currently learning Docker and Python language
 
-💼 My current projects are: My training, Odyssey and Tolnkee
+💼 My current projects are: My training ATSN (TSSR), Odyssey and Tolnkee
 
 <br><br>
 
