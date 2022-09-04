@@ -2,7 +2,7 @@ Hi 👋, I'm David
 
 🔭 I’m currently in Advanced Technician Training Systems and Networks
 
-🌱 I am currently learning Docker and GoLang
+🌱 I am currently learning DevOps and GoLang
 
 💼 My current projects are: My training ATSN (TSSR), Odyssey.fr and Tolnkee.com
 
