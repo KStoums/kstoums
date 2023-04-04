@@ -8,7 +8,7 @@ Hi 👋, I'm David
 
 <br><br>
 
-👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/Niromash>Niromash</a>
+<!-- 👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/Niromash>Niromash</a> -->
 
 <!---
 KStoums/KStoums is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
