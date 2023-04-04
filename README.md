@@ -5,8 +5,8 @@ Hi 👋, I'm David
 🌱 I am currently learning DevOps and GoLang
 
 💼 My current projects are: My training ATSN (TSSR), Odyssey.fr and Tolnkee.com
-
-<br><br>
+<!-- 
+<br><br> -->
 
 <!-- 👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/Niromash>Niromash</a> -->
 
