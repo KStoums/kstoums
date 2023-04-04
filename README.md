@@ -19,7 +19,7 @@ Hi 👋, I'm David
   - **contact@kstars.me**
   - Kstars#5038
 
-- 📗 Experiences and projects 
+- 🔥 Experiences and projects 
   - https://kstars.me/profil
 
 <h3 align="left">Connect with me:</h3>
