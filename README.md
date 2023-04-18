@@ -13,7 +13,7 @@
 **Advanced Technician Training Systems and Networks**
 
 - 🧑‍🎓 I'm currently learning
-**Development with Golang & Devops**
+**Development with Golang & DevOps**
 
 - 📫 How to reach me 
   - **contact@kstars.me**
