@@ -1,4 +1,4 @@
-Hi 👋, I'm David
+<h3 align="center">Hi 👋, I'm David</h3>
 <h3 align="center">French Network and Systems Technician & Young development lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
