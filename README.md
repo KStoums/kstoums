@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
 
 - 🧑‍🔧 I’m currently working at
-**Tolnkee as DevOps and backend developer**
+**Tolnkee & GoRoutine as DevOps and backend developer**
 
 <!-- - 🧑‍🎓 I’m currently studying in
 **SUPINFO** -->
