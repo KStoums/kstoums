@@ -20,7 +20,7 @@
   - Kstars#5038
 
 - 🔥 Experiences and projects 
-  - https://kstars.me/profil
+  - https://kstars.me/resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
