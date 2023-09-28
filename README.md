@@ -36,9 +36,9 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="rabbitmq" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://zupimages.net/up/23/39/qpbt.png" alt="rabbitmq" width="40" height="40"/> </a>
 <a href="https://about.gitea.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12724356?s=48&v=4" alt="gitea" width="40" height="40"/> </a>
-<a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" alt="swagger" width="40" height="40"/> </a>
+<a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://zupimages.net/up/23/39/t9vc.png" alt="swagger" width="40" height="40"/> </a>
 <a href="https://mariadb.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4739304?s=200&v=4" alt="mariadb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" alt="proxmox" width="40" height="40"/> </a></p>
