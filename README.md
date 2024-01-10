@@ -4,16 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
 
 - 🧑‍🔧 I’m currently working at
-**Tolnkee & GoRoutine as DevOps and backend developer**
-
-<!-- - 🧑‍🎓 I’m currently studying in
-**SUPINFO** -->
+**GoneWorlds & GoRoutine as DevOps and backend developer**
 
 - 🧑‍🎓 I’m currently in
-**Advanced Technician Training Systems and Networks**
+**Web & Mobile Web Developer training**
 
 - 🧑‍🎓 I'm currently learning
-**Development with Golang & DevOps**
+**Development with Java, HTML, CSS, JS**
 
 - 📫 How to reach me 
   - **contact@kstars.me**
