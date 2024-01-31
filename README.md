@@ -10,7 +10,7 @@
 **Web & Mobile Web Developer training**
 
 - 🧑‍🎓 I'm currently learning
-**Development with Java, HTML, CSS**
+**Development with Java, HTML, CSS, JS**
 
 - 📫 How to reach me 
   - **contact@kstars.me**
