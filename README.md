@@ -13,11 +13,11 @@
 **Development with Java, HTML, CSS, JS**
 
 - 📫 How to reach me 
-  - **contact@kstars.me**
-  - Kstars#5038
+  - **contact@kstars.me** (Offline temporarily)
+  - kstars (Discord)
 
 - 🔥 Experiences and projects 
-  - https://kstars.me/resume
+  - https://kstars.me/resume (Offline temporarily)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
