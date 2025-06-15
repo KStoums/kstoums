@@ -6,8 +6,8 @@
 - 🧑‍🔧 I’m currently working at
 **GoneWorlds & GoRoutine as DevOps and backend developer**
 
-- 🧑‍🎓 I’m currently in
-**Job search in development**
+<!--- 🧑‍🎓 I’m currently in
+**Job search in development**-->
 
 - 🧑‍🎓 I'm currently learning
 **Development with Java**
