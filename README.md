@@ -42,7 +42,7 @@
 <!-- 
 <br><br> -->
 
-👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/matteochretien>Mattéo Chrétien</a>
+<!--👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/matteochretien>Mattéo Chrétien</a>-->
 
 <!--
 KStoums/KStoums is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
