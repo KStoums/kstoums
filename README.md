@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm David</h3>
-<h3 align="center">French Network and Systems Technician & Young development lover</h3>
+<h3 align="center">French Systems Technician & Young development lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
 
@@ -7,10 +7,10 @@
 **GoneWorlds & GoRoutine as DevOps and backend developer**
 
 - 🧑‍🎓 I’m currently in
-**Web & Mobile Web Developer training**
+**Job search in development**
 
 - 🧑‍🎓 I'm currently learning
-**Development with Java, HTML, CSS, JS**
+**Development with Java**
 
 - 📫 How to reach me 
   - **contact@kstars.me** (Offline temporarily)
@@ -18,6 +18,7 @@
 
 - 🔥 Experiences and projects 
   - https://kstars.me/resume (Offline temporarily)
+  - https://goroutine.fr/ (Online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,9 +42,9 @@
 <!-- 
 <br><br> -->
 
-<!-- 👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/Niromash>Niromash</a> -->
+👨‍🏫 Thanks to my lifelong teacher <a href=https://github.com/matteochretien>Mattéo Chrétien</a>
 
-<!---
+<!--
 KStoums/KStoums is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
