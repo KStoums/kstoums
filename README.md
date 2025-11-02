@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
 
 - 🧑‍🔧 I’m currently working at
-**GoneWorlds & GoRoutine as DevOps and backend developer**
+**GoneWorlds & Wellfall as DevOps and backend developer**
 
 <!--- 🧑‍🎓 I’m currently in
 **Job search in development**-->
@@ -13,12 +13,10 @@
 **Development with Java**
 
 - 📫 How to reach me 
-  - **contact@kstars.me** (Offline temporarily)
   - kstars (Discord)
 
 - 🔥 Experiences and projects 
-  - https://kstars.me/resume (Offline temporarily)
-  - https://goroutine.fr/ (Online)
+  - https://wellfall.com/ (Online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
