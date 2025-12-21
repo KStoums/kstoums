@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0e75b6&style=flat" alt="kstoums" /> </p>
 
 - 🧑‍🔧 I’m currently working at
-**GoneWorlds & Wellfall.com as DevOps and backend developer**
+**GoneWorlds & Wellfall.com as DevOps and fullstack developer**
 
 <!--- 🧑‍🎓 I’m currently in
 **Job search in development**-->
