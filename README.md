@@ -21,7 +21,7 @@
 ### 🔥 Experiences & projects
 
 - 🌐 [Wellfall](https://wellfall.com/)
-- 🌐 [PubCopains](https://pubcopains.fr/)
+- 🌐 [Le Pub des Copains](https://pubcopains.fr/)
 - 🔒 Other **private or client projects**
 
 ---
