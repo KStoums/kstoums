@@ -22,7 +22,7 @@
 
 - 🌐 [Wellfall](https://wellfall.com/)
 - 🌐 [Le Pub des Copains](https://pubcopains.fr/)
-- 🔒 Other **private or client projects**
+- 🔒 Other **private or customer projects**
 
 ---
 
