@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About me
 
-- 🧑‍🔧 Currently working at **Welltale.world & Wellfall.com** as **DevOps & Full‑Stack Developer**
+- 🧑‍🔧 Currently working at **Welltale & Wellfall.com** as **DevOps & Full‑Stack Developer**
 - 🧑‍🎓 Currently **looking for a developer position**
 - 📚 Currently learning **Java development**
 - 📫 How to reach me:
