@@ -2,7 +2,7 @@
 <h3 align="center">French Systems Technician & DevOps / Full‑Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=57CD4B&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kstoums&label=Profile%20views&color=0290FD&style=flat" alt="profile views" />
 </p>
 
 ---
