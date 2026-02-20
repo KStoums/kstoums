@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About me
 
-- 🧑‍🔧 Currently working at **GoneWorlds & Wellfall.com** as **DevOps & Full‑Stack Developer**
+- 🧑‍🔧 Currently working at **Welltale.world & Wellfall.com** as **DevOps & Full‑Stack Developer**
 - 🧑‍🎓 Currently **looking for a developer position**
 - 📚 Currently learning **Java development**
 - 📫 How to reach me:
@@ -28,7 +28,7 @@
 
 ### 🛠️ Tech stack
 
-Main stack: **Go, Svelte / TypeScript, PostgreSQL, Redis, Docker, Kubernetes, Linux**
+Main stack: **Go, Svelte, TypeScript, JavaScript, PostgreSQL, Redis, Docker, Linux**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -87,20 +87,11 @@ Main stack: **Go, Svelte / TypeScript, PostgreSQL, Redis, Docker, Kubernetes, Li
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 
   <!-- VCS / Collaboration -->
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
