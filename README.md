@@ -7,6 +7,10 @@
   <a href="https://wellfall.com/">
     <img src="https://img.shields.io/badge/Wellfall-Visit%20Website-0290FD?style=flat&logo=google-chrome&logoColor=white" />
   </a>
+  <br>
+  <a href="https://wakatime.com/@421ab890-5d35-4328-a43c-57d72be2b882">
+    <img src="https://wakatime.com/badge/user/421ab890-5d35-4328-a43c-57d72be2b882.svg"/>
+  </a>
 </p>
 
 <p align="center">
