@@ -39,7 +39,8 @@
 - 🕹️ **Welltale**  
   MMORPG project on Hytale
 
-- 🌐 [Le Pub des Copains](https://pubcopains.fr/) (Temporarily under maintenance)
+- 🌐 [Le Pub des Copains](https://pubcopains.fr/)  
+  (Temporarily under maintenance)
 
 - 🔒 Other **private / customer projects**
 
