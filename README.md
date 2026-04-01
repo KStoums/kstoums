@@ -24,9 +24,9 @@
 ## 👨‍💻 About me
 
 - 🧑‍🔧 Currently working at **Wellfall** as **Full-Stack Developer & DevOps**
-<!-- - 🕹️ Building **Welltale**, an MMORPG project on **Hytale** -->
 - 🧑‍🎓 Currently **looking for a developer position**
 - 📚 Currently learning **Java development**
+<!-- - 🕹️ Building **Welltale**, an MMORPG project on **Hytale** -->
 
 ### 📫 Contact
 
