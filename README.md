@@ -24,7 +24,7 @@
 ## 👨‍💻 About me
 
 - 🧑‍🔧 Currently working at **Wellfall** as **Full-Stack Developer & DevOps**
-- 🕹️ Building **Welltale**, an MMORPG project on **Hytale**
+<!-- - 🕹️ Building **Welltale**, an MMORPG project on **Hytale** -->
 - 🧑‍🎓 Currently **looking for a developer position**
 - 📚 Currently learning **Java development**
 
@@ -39,6 +39,15 @@
 
 - 🌐 [Wellfall](https://wellfall.com/)  
   Custom software development (APIs, dashboards, infrastructure, automation)
+
+- 🥚 [Les Aventuriers de la Taverne](https://discord.gg/PvexC9k)  
+    A Discord server dedicated to the DOFUS gaming community
+
+- 🔫 [Garry's Life](https://www.youtube.com/watch?v=bjTBPdRydlg)  
+  A Garry's Mod DarkRP Server
+
+- 🧊 **GoneWorlds**  
+  A UHC Fantasy server created by the streamer Nems
 
 - 🕹️ **Welltale**  
   MMORPG project on Hytale
