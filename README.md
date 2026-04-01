@@ -47,7 +47,7 @@
   A Garry's Mod DarkRP Server
 
 - 🧊 **GoneWorlds**  
-  A UHC Fantasy server created by the streamer Nems
+  A Minecraft UHC Fantasy server created by the streamer Nems
 
 - 🕹️ **Welltale**  
   MMORPG project on Hytale
