@@ -15,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0290FD&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%26+DevOps+Junior;Go+%7C+Svelte+%7C+TypeScript+%7C+PostgreSQL%7C+Docker;Building+Wellfall.com+%26+Welltall+MMORPG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0290FD&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%26+DevOps+Junior;Go+%7C+Svelte+%7C+TypeScript+%7C+PostgreSQL%7C+Docker;Working+at+Wellfall.com"
   />
 </p>
 
